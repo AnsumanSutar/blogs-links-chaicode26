@@ -15,9 +15,9 @@ I've written 13 articles covering various topics in the cohort. Check them out b
 * [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://simplynetworking.hashnode.dev/tcp-vs-udp-vs-http-beginners-guide-to-internet-data-rules)
 * [TCP Working: 3-Way Handshake & Reliable Communication](https://simplynetworking.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication)
 * [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://simplynetworking.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals)
-* [Understanding HTML Tags and Elements]()
-* [CSS Selectors 101: Targeting Elements with Precision]()
-* [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup]()
+* [Understanding HTML Tags and Elements](https://simplynetworking.hashnode.dev/understanding-html-tags-and-elements)
+* [CSS Selectors 101: Targeting Elements with Precision](https://simplynetworking.hashnode.dev/css-selectors-101-targeting-elements-with-precision)
+* [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://simplynetworking.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup)
 
 ---
 *Follow me for more updates!*
